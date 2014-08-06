@@ -173,6 +173,4 @@ SPARC CPU Overview
 * It takes 5 years from CPU design start to deliver. Here's a quick thought-experiment: 
   
 ----------------------------------------------------------------------------------------------------------
-#######参考链接：
 
-1. [SPARC CPU Overview.](https://blogs.oracle.com/orasysat/entry/sparc_t4_t5_m5_m10)
